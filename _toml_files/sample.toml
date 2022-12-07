@@ -1,0 +1,23 @@
+[library]
+name = "toml++"
+authors = ["Mark Gillard <mark.gillard@outlook.com.au>"]
+
+[dependencies]
+cpp = 17
+
+[empty]
+
+[[something]]
+a = 1
+
+[[something]]
+a = 2
+
+[[babar]]
+[[babar]]
+
+["cmt.foo.0"]
+test.value = 1
+
+
+

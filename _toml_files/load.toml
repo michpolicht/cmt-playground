@@ -1,0 +1,8 @@
+[plugin.cmt-foo-0]
+[[plugin.cmt-testplugin-0]]
+sup = 2
+x = 3
+[[plugin.cmt-testplugin-0]]
+sup = 2
+x = 1
+
